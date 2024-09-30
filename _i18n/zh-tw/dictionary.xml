@@ -3258,7 +3258,6 @@ ONTAP Select 叢集</block>
   <block id="58c277c116ff23ffb9879debb95b4968" category="list-text">支援 NVMe over TCP</block>
   <block id="db5f5d6e1e5a3e29724ce78258556ff1" category="list-text">升級至 ONTAP Select 9.13.1 時、您必須擁有新的授權、才能透過 TCP 支援 NVMe 。當您第一次從 9.13.1 版開始部署 ONTAP Select 時、就會自動包含此授權。</block>
   <block id="5f4c6121d4f63aaa5d6daebc2a2effee" category="list-text">更新VMware ESXi支援</block>
-  <block id="4d8daf3f51ebf7fefb4dfcf900e9b79d" category="list-text">從 ONTAP 9.13.1 開始、硬體版本 4 及更新版本支援 VMware ESXi 8.0 GA （組建 20513097 ）。</block>
   <block id="2183c79114d56889f4a8854299f703a5" category="list-text">截至 2024 年 4 月、 ONTAP Select Deploy 9.13.1 已不再適用於 NetApp 支援網站 。如果您執行的是 ONTAP Select Deploy 9.13.1 、則應儘快升級至 ONTAP Select Deploy 9.14.1P2 。如需詳細資訊、請參閱 <block ref="6635db952aa4480bb5bc591b4d6d32f6" category="inline-link-macro-rx"></block>。</block>
   <block id="77e5d3b8719596b41c77222a6711e69b" category="section-title">零點9.12.1. ONTAP Select</block>
   <block id="05dd50ebf48db80deadf4c9a847c2ce4" category="paragraph">目前發行的核心版的核心版大部分新開發成果、均可讓您受益於此功能ONTAP ONTAP Select 。不包含ONTAP Select 任何特定於功能更新或改進功能。</block>
@@ -3773,4 +3772,6 @@ ONTAP Select 叢集</block>
   <block id="0a15f7ba73868a32304fdf52855463c9" category="sidebar">移除ONTAP Select 鏡像</block>
   <block id="afc9d68a1be701598b5ef94dc0be2844" category="sidebar">恢復雙節點叢集的部署</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 及更新版本現在支援 SVM DR 做為來源和目的地、最多可與 16 個關係。SVM DR 支援僅限於使用來源 ONTAP 版本至版本 +2 。例如、 ONTAP Select 9.12.1 來源可以連線至目的地 ONTAP 9.12.1 、 9.13.1 或 9.14.1 版。</block>
+  <block id="78fb396e8c541b492002e6b94963fe83" category="list-text">ONTAP Select 9.14.1 支援 VMware ESXi 8.0.2 。</block>
+  <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">從 ONTAP 9 。 13.1 開始、硬體版本 4 及更新版本支援 VMware ESXi 8.0.1 GA （組建 20513097 ）。</block>
 </blocks>
