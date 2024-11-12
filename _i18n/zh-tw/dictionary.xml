@@ -3679,7 +3679,6 @@ ONTAP Select 叢集</block>
   <block id="bf228c91d777320bb66324531a85cdb5" category="list-text">Proxy URL（選用）</block>
   <block id="a070d5cad46a2ff939c511d82e8fa8a6" category="list-text">鍵入*？*並按* Enter鍵以顯示可用的管理Shell命令清單。</block>
   <block id="f8304478cfdeb2db287b6dcf0b36f3a8" category="sidebar">NetApp ONTAP Select 是軟體定義的儲存應用裝置、可部署在執行 VMware ESXi 或核心型虛擬機器（ KVM ） Hypervisor 的各種市售硬體伺服器上。它提供您建置靈活且可擴充的私有雲基礎架構所需的敏捷度。本網站包含 ONTAP Select 9.14.1 的文件。</block>
-  <block id="7436b418bed093768e360d32105591d2" category="sidebar">本文檔ONTAP Select</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">開始使用</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
@@ -3774,4 +3773,5 @@ ONTAP Select 叢集</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 及更新版本現在支援 SVM DR 做為來源和目的地、最多可與 16 個關係。SVM DR 支援僅限於使用來源 ONTAP 版本至版本 +2 。例如、 ONTAP Select 9.12.1 來源可以連線至目的地 ONTAP 9.12.1 、 9.13.1 或 9.14.1 版。</block>
   <block id="78fb396e8c541b492002e6b94963fe83" category="list-text">ONTAP Select 9.14.1 支援 VMware ESXi 8.0.2 。</block>
   <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">從 ONTAP 9 。 13.1 開始、硬體版本 4 及更新版本支援 VMware ESXi 8.0.1 GA （組建 20513097 ）。</block>
+  <block id="7f354690d454e4370ee79703e014fbd0" category="sidebar">ONTAP Select 9.14.1 文件</block>
 </blocks>
